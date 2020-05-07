@@ -52,7 +52,7 @@
     "react-dom": "^16.8.4",
     "react-icons": "^3.5.0",
     "react-spring": "^8.0.18",
-    "readline-sync": "^1.4.9",
+    "readline-sync": "^1.4.10",
     "resolve": "1.10.0",
     "sass-loader": "7.1.0",
     "style-loader": "0.23.1",
